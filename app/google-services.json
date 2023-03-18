@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "217328487790",
+    "project_id": "storge-a8e1d",
+    "storage_bucket": "storge-a8e1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217328487790:android:181eab0bdcc9c3fc30057f",
+        "android_client_info": {
+          "package_name": "com.example.imageuploader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217328487790-s7ks3u83de6v7ink898gagflmrrhtkqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFgE0q913KZH90x2Loen2OofSdR12pjCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217328487790-s7ks3u83de6v7ink898gagflmrrhtkqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
